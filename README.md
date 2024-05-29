@@ -1,5 +1,3 @@
-![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
-
 <h1 align="center">Hi 👋, I'm Kokila Ekanayake</h1>
 <h3 align="center">A passionate mobile developer from Sri Lanka</h3>
 
